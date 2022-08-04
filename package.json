@@ -28,6 +28,6 @@
   },
   "devDependencies": {
     "pre-commit": "^1.2.2",
-    "webpack-pwa-manifest": "^4.3.0"
+    "webpack-pwa-manifest": "^4.0.0"
   }
 }
